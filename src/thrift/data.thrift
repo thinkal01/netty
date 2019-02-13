@@ -1,4 +1,6 @@
 namespace java thrift.generated
+namespace py py.thrift.generated
+
 // 定义变量别名
 typedef i16 short
 typedef i32 int
